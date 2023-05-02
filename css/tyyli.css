@@ -1,6 +1,6 @@
 body {
     background-image: url('/img/legotausta.jpg');
-    background-repeat: no-repeat;
+    background-repeat: repeat-x;
     background-attachment: fixed;
     font-family: 'lucida sans typewriter', monospace !important;
 }
@@ -27,7 +27,7 @@ body {
 }
 
 .icon {
-    width: 16px;
+    width: 20px;
 }
 
 td {
